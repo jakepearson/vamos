@@ -1,0 +1,19 @@
+{
+  "name": "vamos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "src:compile": "tsc",
+    "start": "yarn run src:compile && vamos"
+  },
+  "bin": {
+    "vamos": "vamos"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.1.4",
+    "yarn": "^0.18.1"
+  }
+}
