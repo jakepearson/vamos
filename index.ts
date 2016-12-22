@@ -1,3 +1,3 @@
-#!/usr/bin/env node --harmony
+import * as inquirer from 'inquirer';
 
 console.log('farts');

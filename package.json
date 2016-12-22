@@ -13,7 +13,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/inquirer": "^0.0.32",
+    "tslint": "^4.1.1",
     "typescript": "^2.1.4",
     "yarn": "^0.18.1"
+  },
+  "dependencies": {
+    "inquirer": "^2.0.0"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "ban-winston": true,
+    "eofline": false,
+    "member-access": false,
+    "member-ordering": [true, "variables-before-functions"],
+    "must-return-reject": true,
+    "no-consecutive-blank-lines": [true, 2],
+    "no-empty": false,
+    "no-imports-above-root": true,
+    "no-duplicate-export-default": true,
+    "no-process-env": true,
+    "no-on-click": true,
+    "no-trailing-whitespace": false,
+    "no-var-requires": false,
+    "quotemark": [true, "single", "jsx-double"],
+    "variable-name": [true, "allow-leading-underscore", "allow-pascal-case"],
+    "ban": [true, ["describe", "only"], ["it", "only"]],
+    "async-await": true,
+    "no-string-literals": false,
+    "no-source-literals": true,
+    "no-unused-variable": [true]
+  }
+}
