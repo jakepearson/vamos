@@ -20,6 +20,10 @@
     "async-await": true,
     "no-string-literals": false,
     "no-source-literals": true,
-    "no-unused-variable": [true]
+    "no-unused-variable": [true],
+    "max-line-length": [false],
+    "arrow-parens": false,
+    "interface-name": [false],
+    "no-console": [false]
   }
 }
