@@ -1,2 +1,4 @@
 node_modules
 dist
+dotnet/obj
+dotnet/bin

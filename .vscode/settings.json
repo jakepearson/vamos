@@ -6,6 +6,8 @@
     "**/.hg": true,
     "**/.DS_Store": true,
     "typescript/node_modules": true,
-    "typescript/dist": true
+    "typescript/dist": true,
+    "dotnet/bin": true,
+    "dotnet/obj": true
   }
 }
